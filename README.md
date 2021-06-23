@@ -7,7 +7,7 @@
 functional language written in C. It's syntactically similar to Ruby and it can
 be learned [within 15 minutes](https://thakeenathees.github.io/pocketlang/getting-started-learn-in-15-minutes.html).
 Including the compiler, bytecode VM and runtime, it's a standalone executable
-with zero external dependencies just as it's self descriptive name. The pocketlang
+with zero external dependencies just as its self descriptive name. The pocketlang
 VM can be embedded in another hosting program very easily.
 
 The language is written using [Wren Language](https://wren.io/) and their
